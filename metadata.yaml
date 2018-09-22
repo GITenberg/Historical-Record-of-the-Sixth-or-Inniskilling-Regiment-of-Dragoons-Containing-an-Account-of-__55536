@@ -1,0 +1,27 @@
+_repo: Historical-Record-of-the-Sixth-or-Inniskilling-Regiment-of-Dragoons-Containing-an-Account-of-__55536
+_version: 0.0.1
+alternative_title: Historical record of the 6th Dragoons
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+description: ''
+gutenberg_issued: '2017-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Inniskilling Dragoons, 6th'
+- !lcc 'UA'
+- GITenberg
+title: "Historical Record of the Sixth, or Inniskilling Regiment of Dragoons\r\nContaining\
+  \ an Account of the Formation of the Regiment in 1689, and of Its Subsequent Services\
+  \ to 1846"
+url: http://www.gutenberg.org/ebooks/55536
